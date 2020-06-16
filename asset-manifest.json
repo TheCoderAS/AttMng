@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AttMng/static/css/main.d56cf22b.chunk.css",
+    "main.js": "/AttMng/static/js/main.1507d92e.chunk.js",
+    "main.js.map": "/AttMng/static/js/main.1507d92e.chunk.js.map",
+    "runtime-main.js": "/AttMng/static/js/runtime-main.0dd7906f.js",
+    "runtime-main.js.map": "/AttMng/static/js/runtime-main.0dd7906f.js.map",
+    "static/css/2.9b33be70.chunk.css": "/AttMng/static/css/2.9b33be70.chunk.css",
+    "static/js/2.2617b1e9.chunk.js": "/AttMng/static/js/2.2617b1e9.chunk.js",
+    "static/js/2.2617b1e9.chunk.js.map": "/AttMng/static/js/2.2617b1e9.chunk.js.map",
+    "index.html": "/AttMng/index.html",
+    "precache-manifest.6234e9b0445a78668b735a0de77908b1.js": "/AttMng/precache-manifest.6234e9b0445a78668b735a0de77908b1.js",
+    "service-worker.js": "/AttMng/service-worker.js",
+    "static/css/2.9b33be70.chunk.css.map": "/AttMng/static/css/2.9b33be70.chunk.css.map",
+    "static/css/main.d56cf22b.chunk.css.map": "/AttMng/static/css/main.d56cf22b.chunk.css.map",
+    "static/js/2.2617b1e9.chunk.js.LICENSE.txt": "/AttMng/static/js/2.2617b1e9.chunk.js.LICENSE.txt",
+    "static/media/favicon.ico": "/AttMng/static/media/favicon.ba6190a9.ico",
+    "static/media/font-awesome.css": "/AttMng/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dd7906f.js",
+    "static/css/2.9b33be70.chunk.css",
+    "static/js/2.2617b1e9.chunk.js",
+    "static/css/main.d56cf22b.chunk.css",
+    "static/js/main.1507d92e.chunk.js"
+  ]
+}
