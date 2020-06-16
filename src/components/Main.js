@@ -16,11 +16,11 @@ class Main extends Component{
         <Back/>
         <Header/>
         <Switch>
-          <Route path="/" component={Body}/>
-          <Route exact path="/help" component={Help}/>
-          <Route exact path="/aboutus" component={About}/>
-          <Route exact path="/contactus" component={Contact}/> 
-          <Redirect to="/"/>         
+          <Route path="/AttMng" component={Body}/>
+          <Route exact path="/AttMng/help" component={Help}/>
+          <Route exact path="/AttMng/aboutus" component={About}/>
+          <Route exact path="/AttMng/contactus" component={Contact}/> 
+          <Redirect to="/AttMng"/>         
         </Switch>
         <Footer/>
       </div>

@@ -134,8 +134,8 @@ class Footer extends Component{
             <div className="col-5 offset-1">
             <h5>Links</h5><hr></hr>
             <ul className="list-unstyled">
-              <li><Link to='/' id="log"><span className="fa fa-home"></span> &nbsp;<strong>Home</strong></Link></li>
-              <li><Link to='/aboutus' id="log"><span className="fa fa-info"></span> &nbsp;<strong>About Us</strong></Link></li>                    
+              <li><Link to='/AttMng' id="log"><span className="fa fa-home"></span> &nbsp;<strong>Home</strong></Link></li>
+              <li><Link to='/AttMng/aboutus' id="log"><span className="fa fa-info"></span> &nbsp;<strong>About Us</strong></Link></li>                    
               <li><Link to='/contactus' id="log"><span className="fa fa-address-card"></span> &nbsp;<strong>Contact Us</strong></Link></li>
             </ul>
             </div>
@@ -144,7 +144,7 @@ class Footer extends Component{
               <ul className="list-unstyled">
                 <li><Login/></li>
                 <li ><Register/></li>                  
-                <li><Link to='/help' id="log"><strong><span className="fa fa-question-circle"></span> &nbsp;Help!</strong></Link></li>
+                <li><Link to='AttMng/help' id="log"><strong><span className="fa fa-question-circle"></span> &nbsp;Help!</strong></Link></li>
               </ul>
             </div>
           </div>

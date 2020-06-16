@@ -70,14 +70,14 @@ class Header extends Component{
         <Navbar dark expand="sm" color="danger" fixed="top">
           <div className="container">
             <NavbarToggler onClick={this.toggleNav} />
-            <NavbarBrand className="mr-auto" href="/"><img src='assets/img/sample2.jpg' height="40" width="40" alt='Attendance Manager' /></NavbarBrand>
+            <NavbarBrand className="mr-auto" href="/AttMng"><img src='assets/img/sample2.jpg' height="40" width="40" alt='Attendance Manager' /></NavbarBrand>
             <Collapse isOpen={this.state.isNavOpen} navbar>
               <Nav navbar>
                 <NavItem>
-                  <NavLink className="nav-link"  to='/'><span className="fa fa-home fa-lg"></span> &nbsp;Home</NavLink>
+                  <NavLink className="nav-link"  to='/AttMng'><span className="fa fa-home fa-lg"></span> &nbsp;Home</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="nav-link" to='/aboutus'><span className="fa fa-info fa-lg"></span> &nbsp;About Us</NavLink>
+                  <NavLink className="nav-link" to='/AttMng/aboutus'><span className="fa fa-info fa-lg"></span> &nbsp;About Us</NavLink>
                 </NavItem>
               </Nav>
               <Nav className="ml-auto" navbar>
